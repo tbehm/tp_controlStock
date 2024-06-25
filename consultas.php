@@ -1,5 +1,5 @@
 <?php
-	define("URL", "C:/xampp/htdocs/stock-hospital/conexion.php");
+	define("URL", "conexion.php");
 
 	function postMedicamento($nom,$cant){
 		require URL;
